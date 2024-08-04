@@ -1,0 +1,2 @@
+MAX_CREDIT_HOURS = "18"
+
